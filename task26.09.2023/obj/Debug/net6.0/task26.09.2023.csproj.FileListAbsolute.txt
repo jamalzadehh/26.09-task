@@ -1,0 +1,14 @@
+C:\Users\Sebuhi\OneDrive\İş masası\task26.09.2023\obj\Debug\net6.0\task26.09.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebuhi\OneDrive\İş masası\task26.09.2023\obj\Debug\net6.0\task26.09.2023.AssemblyInfoInputs.cache
+C:\Users\Sebuhi\OneDrive\İş masası\task26.09.2023\obj\Debug\net6.0\task26.09.2023.AssemblyInfo.cs
+C:\Users\Sebuhi\OneDrive\İş masası\task26.09.2023\obj\Debug\net6.0\task26.09.2023.csproj.CoreCompileInputs.cache
+C:\Users\Sebuhi\OneDrive\İş masası\task26.09.2023\bin\Debug\net6.0\task26.09.2023.exe
+C:\Users\Sebuhi\OneDrive\İş masası\task26.09.2023\bin\Debug\net6.0\task26.09.2023.deps.json
+C:\Users\Sebuhi\OneDrive\İş masası\task26.09.2023\bin\Debug\net6.0\task26.09.2023.runtimeconfig.json
+C:\Users\Sebuhi\OneDrive\İş masası\task26.09.2023\bin\Debug\net6.0\task26.09.2023.dll
+C:\Users\Sebuhi\OneDrive\İş masası\task26.09.2023\bin\Debug\net6.0\task26.09.2023.pdb
+C:\Users\Sebuhi\OneDrive\İş masası\task26.09.2023\obj\Debug\net6.0\task26.09.2023.dll
+C:\Users\Sebuhi\OneDrive\İş masası\task26.09.2023\obj\Debug\net6.0\refint\task26.09.2023.dll
+C:\Users\Sebuhi\OneDrive\İş masası\task26.09.2023\obj\Debug\net6.0\task26.09.2023.pdb
+C:\Users\Sebuhi\OneDrive\İş masası\task26.09.2023\obj\Debug\net6.0\task26.09.2023.genruntimeconfig.cache
+C:\Users\Sebuhi\OneDrive\İş masası\task26.09.2023\obj\Debug\net6.0\ref\task26.09.2023.dll
